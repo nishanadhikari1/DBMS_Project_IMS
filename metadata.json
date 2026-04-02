@@ -1,5 +1,0 @@
-{
-  "name": "Everest Inventory",
-  "description": "A full-stack inventory management system with role-based access control, integrated with Supabase.",
-  "requestFramePermissions": []
-}
