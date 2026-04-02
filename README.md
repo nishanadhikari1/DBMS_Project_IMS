@@ -1,4 +1,4 @@
-# Everest Inventory Management System
+# Inventory Management System
 
 ## Setup Instructions
 
@@ -23,8 +23,3 @@
    npm run build
    npm start
    ```
-
-## Troubleshooting
-
-### Tailwind CSS Native Bindings
-Tailwind v4 uses a Rust-based engine (`@tailwindcss/oxide`). If `npm` fails to install the correct native binding for your platform, we have added them as `optionalDependencies` in `package.json`. Running `npm install` should automatically pick the right one.
